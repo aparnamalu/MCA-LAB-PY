@@ -1,0 +1,7 @@
+str=("welcome to python programing")
+print(str)
+print(str[0])
+print(str[11:17])
+print(str[-1])
+print(str+" hai")
+print(str*2)
